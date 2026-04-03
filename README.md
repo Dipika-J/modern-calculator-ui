@@ -1,7 +1,6 @@
 # 🧮 Modern Calculator
 
-A modern calculator web app built using HTML, CSS, and JavaScript with a clean dark UI.
-
+### A modern calculator web application built using HTML, CSS, and JavaScript, featuring a clean and responsive dark user interface.
 ---
 
 ## 🔗 Live Demo
@@ -9,7 +8,7 @@ https://dipika-j.github.io/modern-calculator-ui/
 ---
 
 ## 📷 Screenshot
-![Calculator]
+![Calculator](https://github.com/Dipika-J/modern-calculator-ui/blob/main/calculator.png)
 ---
 
 ## 🚀 Features
