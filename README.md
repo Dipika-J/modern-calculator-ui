@@ -5,12 +5,11 @@ A modern calculator web app built using HTML, CSS, and JavaScript with a clean d
 ---
 
 ## 🔗 Live Demo
-
+https://dipika-j.github.io/modern-calculator-ui/
 ---
 
 ## 📷 Screenshot
-![Calculator](screenshots/output.png)
-
+![Calculator]
 ---
 
 ## 🚀 Features
