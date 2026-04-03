@@ -1,6 +1,6 @@
-# 🧮 Modern Calculator
+## 🧮 Modern Calculator
 
-### A modern calculator web application built using HTML, CSS, and JavaScript, featuring a clean and responsive dark user interface.
+##### A modern calculator web application built using HTML, CSS, and JavaScript, featuring a clean and responsive dark user interface.
 ---
 
 ## 🔗 Live Demo
